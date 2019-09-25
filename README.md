@@ -60,7 +60,7 @@ Einen Überblick über die einzelnen Projektschritte finden Sie [hier](https://u
 | 01. September | Theorieübung Woche 2| Adam | Nur wer nicht in der Vorlesung vom 25.9 war |
 | 01. September | Praktische Übung Woche 2| Pull request | |
 | 02. September | Selbsttest | Adam |  Muss bis vor der Vorlesung (08.00) gelöst werden |
-| 
+
 
 
 
@@ -70,15 +70,14 @@ Einen Überblick über die einzelnen Projektschritte finden Sie [hier](https://u
 #### Empfohlene Lehrbücher 
 
 * [C. Ghezzi, M. Jazayeri und D. Mandrioli, Fundamentals of Software Engineering](https://www.pearson.com/us/higher-education/program/Ghezzi-Fundamentals-of-Software-Engineering-2nd-Edition/PGM13112.html)
-
 * [S. L. Pfleeger, und J. M. Atlee. Software engineering: theory and practice](https://www.pearson.com/us/higher-education/program/Pfleeger-Pfleeger-Software-Engineering-4-4th-Edition/PGM58925.html)
 
-
 #### Weiterführende Links und Literaturempfehlungen für besonders Interessierte
+
 * The mythical man month, Fred Brooks: [(pdf)](https://is.muni.cz/www/208322/The.Mythical.Man.Month.F.Brooks.pdf)
     * Software Engineering Klassiker. Einfach und unterhaltsam zu lesen aber voller wertvoller Informationen.
 * The Good, the Hype and the Ugly, Bertrand Mejer [(Amazon)](https://www.amazon.com/Agile-Good-Hype-Bertrand-Meyer/dp/3319051547)
     * Sehr gute Einführung in Agile Methoden, die Agile Methoden auch in Kontext mit traditionellen Software Engineering Ansätzen setzt.
 * Seminal papers in Software Engineering, The Carnegie Mellon Canonical Collection [(pdf)](http://reports-archive.adm.cs.cmu.edu/anon/isr2015/CMU-ISR-15-107.pdf)
     * Annotierter Katalog von klassischen Software Engineering Paper
-
+* Software Engineering – Grundlagen, Menschen, Prozesse, Techniken; Jochen Ludewig / Horst Lichter. [[Webseite zum Buch](https://www.swc.rwth-aachen.de/se_buch/)]
